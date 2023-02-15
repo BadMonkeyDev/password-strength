@@ -19,6 +19,7 @@ npm install
 
 <h2>Usage</h2>
 To use the Password Strength Checker, simply run the following command:
+
 ```bash
 vite
 ```
