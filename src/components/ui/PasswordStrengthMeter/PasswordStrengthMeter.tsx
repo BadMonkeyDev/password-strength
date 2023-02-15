@@ -16,7 +16,7 @@ const PasswordStrengthMeter = ({password, policy}: PasswordProps) => {
         return <div>Error calculating password strength</div>
     }
 
-    const pwdType = pwdStrength.type;
+    const pwdType = pwdStrength.type; // You can also get feedback array to display how to improve password strength
 
     const Colors = {
         gray: '#C9C9C9',
