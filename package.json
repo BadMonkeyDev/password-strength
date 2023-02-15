@@ -1,6 +1,7 @@
 {
   "name": "usense",
   "author": "BadMonkey",
+  "description": "A simple TypeScript application that checks the strength of a user's password.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
