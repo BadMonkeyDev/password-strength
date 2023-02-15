@@ -22,6 +22,7 @@ To use the Password Strength Checker, simply run the following command:
 ```bash
 vite
 ```
+
 This will start the dev server and serve the HTML form. Link will be in terminal. You can then input your password and see its strength score.
 
 <h2>Contributing</h2>
